@@ -8,3 +8,9 @@ ju., 27 de mar. de 2025 20:07:46:
  tests:  1|5
 total_score: 10/70
 3097687
+ju., 27 de mar. de 2025 20:12:59: 
+ list.c | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+ tests:  2|5
+total_score: 15/70
+9bf39f8
